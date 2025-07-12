@@ -37,7 +37,7 @@ This project demonstrates a simple and clean implementation of a **Decision Tree
 
 2. Open the notebook:jupyter notebook
 
-3.Run each cell to see the model's training and prediction process.
+3. Run each cell to see the model's training and prediction process.
 
 👩‍💻 Author
 |Kallakunta Indhu
