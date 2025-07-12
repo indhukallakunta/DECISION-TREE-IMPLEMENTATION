@@ -33,9 +33,7 @@ This project demonstrates a simple and clean implementation of a **Decision Tree
 
 ## 🚀 How to Run
 
-1. Install dependencies (if not already):
-   ```bash
-   pip install pandas scikit-learn
+1. Install dependencies (if not already): pip install pandas scikit-learn
 
 2. Open the notebook:jupyter notebook
 
